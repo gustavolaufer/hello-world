@@ -10,3 +10,11 @@ This is my list.
 - [ ] Car
 - [ ] Bike
 - [ ] Boat
+
+[[my new wiki page]]
+
+[my newest wiki]
+
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
