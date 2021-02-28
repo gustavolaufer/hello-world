@@ -10,6 +10,7 @@ This is my list.
 - [ ] Car
 - [ ] Bike
 - [ ] Boat
+- [ ] Test
 
 [[my new wiki page]]
 
